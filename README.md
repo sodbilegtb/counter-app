@@ -1,6 +1,5 @@
 # Vue.js Counter Application with Node.js Backend
 
-This project is a simple counter application with a real-time update feature using Vue.js for the frontend and Node.js with Socket.IO for the backend.
 
 ## Features
 
